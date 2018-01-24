@@ -1,0 +1,125 @@
+body{
+	background-image: url(../img/bg.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 50% 0;
+}
+.logo{
+	width: 200px;
+	margin: 20px;
+	float: left;
+	border-radius: 20%;
+}
+h5{
+
+	float: right;
+	
+	font-size: 18px;
+	margin-left: 25px;
+	font-style: italic;
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+
+
+	
+
+
+
+}
+.contenedor-menu a{
+	margin-top: 12px;
+	margin-left: 25px;
+	text-align: center;
+
+
+	
+}
+.imagen{
+	width: 100%;
+}
+.redes a{
+	display:block;
+	position:relative;
+	margin: 20px 0;
+	text-align: center;
+	border: none;
+
+}
+.redes img{
+	width:35%;
+	margin:auto;
+
+	
+}
+.columna-redes{
+	width: 50%;
+}
+.publicacion{
+	display: block;
+	position: relative;
+	width: 300px;
+
+
+}
+.publicacion img{
+	width: 45%;
+	margin-top: 20px;
+
+}
+.bloque2{
+	max-width: 100%;
+
+}
+
+.columna-principal img{
+	width: 100%;
+	
+}
+
+.columna-principal div.row{
+	margin-top:20px;
+}
+.card-image{
+	  
+max-width: 100%;
+	  
+/* margin: 0 20px 5px 0; */
+	  
+/* display:  block; */
+	  
+float:  left;
+	  
+margin-right:  10px;
+}
+
+.panel-comment{
+
+}
+.comentario-titulo{
+	margin: 10px;
+
+}
+.boton-send{
+	text-align: center;
+}
+.card-panel-autor{
+	float: right;
+	
+
+}
+.autor-img{
+	width: 35%;
+	margin-top: 20px;
+}
+.titulo-autor{
+	border-bottom: 1px solid grey;
+}
+.card-content{
+	margin: 10px;
+	padding-right: 20px;
+}
+.texto{
+	padding:20px;
+	margin-top: 50px;
+}

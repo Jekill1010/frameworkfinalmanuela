@@ -1,0 +1,109 @@
+
+body{
+	background-image: url(../img/bg.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 50% 0;
+}
+.panel{
+	background-color: #fefefe69;
+}
+
+
+#header{
+	/* background-color: #fefefe47; */
+	/* border: 1px black dashed; */
+}
+.titulo{
+	color: white;
+	  text-shadow: 2px 2px 4px #000000;
+}
+#panel-item{
+	padding: 10px;
+	background-color: #b10b8336;
+
+	margin-top: 20px;
+
+
+}
+.menu-item{
+	background-color:#f7f6c0;
+	margin-top:  20px;
+}
+#titulo{
+	  color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+.text-right{
+	color: yellow;
+}
+.avatar{
+	width: 100px;
+	}
+
+.btn-b{
+	float: right;
+}
+.cuerpo-row{
+	/* background-image: url("alitas.jpg"); */
+	background-color: #fefefe8c;
+	max-width: 90%;
+}
+
+.cuerpo-row .row{
+	max-width: 55rem!important;
+
+}
+.avatar-wrap{
+	display: inline-block;
+	margin:10 10 10 10 ;
+}
+.date{
+	
+	display:block;
+	text-transform: uppercase;
+	font-size: 11px;
+	color: grey;
+	font-weight: bold;
+	margin-left: 22px;
+
+
+
+
+
+}
+h3{
+	color: white;
+	  color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+.avatares{
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	padding: 6px;
+	
+
+}
+.comment-body p{
+	margin-left: 22px;
+
+}
+.ingredientes-list {
+	font-size: 14px;
+	border-radius: 4px;
+	color: #676363;
+	background-color: #e4b5d8db;
+	margin-top: 0 !important;
+}
+.document__title {
+	color: #fefefe;
+	  text-shadow: 2px 2px 4px #000000;
+}
+.comment-box{
+	margin-top: 20px;
+}
+p{
+	text-align: justify;
+}

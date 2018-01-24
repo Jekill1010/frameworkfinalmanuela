@@ -1,0 +1,231 @@
+.cinema-body{
+  background-color:#dcdcdc; 
+  padding: 50px;
+}
+header{
+  background: #080808;
+  /* height: 100%; */
+  width: 100%;
+}
+.logo-img{
+  width: 100%;
+  padding:25px;
+}
+.redes-sociales{
+ text-align: right;
+ position: absolute;
+  bottom: 0;
+  right: 0;
+
+}
+@media only screen and (max-width: 1199px) {
+  .logo-img{
+  padding: 10px 30px 60px 30px;
+}
+.redes-sociales{
+ 
+  text-align: center!important;
+
+}
+}
+h2{
+  margin-top:0!important;
+}
+
+.rowhead{
+  position:relative;
+}
+.navbar-inverse{background-color: #56d0ffc9;border: none;max-width: 100%;}
+.navbar-nav{
+  margin: 10px 0 10px 0;
+  text-align: center;
+  max-width: 100%;
+  width:100%;
+}
+.navbar-center{
+  padding-left:0;
+}
+.container-fluid{
+  background-color: #fbff1094;
+  min-height: 300px;
+  padding: 8px 4px 8px 8px;
+}
+.subheader{
+  padding: 8px 4px 8px 8px;
+  background-color: red;
+  height: 43px;
+  text-align: center;
+}
+.img-resena{
+   max-width: 100%;
+   /* margin-top: 32px; */
+   margin-top: 39px; 
+   margin-left:1px;
+}
+.texto-resena{
+  padding: 3px;
+  margin-top: 22px;
+  text-align: justify;
+  /* margin-left: 10px; */
+}
+.avatar{
+  width: 50px;
+  height: 50px;
+  display: block;
+  /* margin-left: 10px; */
+  float: left;
+  /* margin-right: 20px; */
+  margin-top: 15px;
+}
+
+ .comment-row{
+ margin-left: 10px;
+ 
+
+
+;
+}
+.form-group{
+  
+  
+}
+.form-control{
+float: right;
+}
+.comment{
+  
+}
+.lista-row{
+  width: 100%;
+    margin-left: 0;
+}
+.imaginary_container{
+  margin: 0px;
+}
+.menu-row{
+  margin-left: 0px;
+}
+.img-resena-2{
+   max-width: 100%;
+   /* margin-top: 32px; */
+   /* margin-left: 30px; */
+.cinema-body{
+  background-color:#dcdcdc; 
+  padding: 50px;
+}
+header{
+  background: #aff7ff;
+  /* height: 100%; */
+  width: 100%;
+}
+.logo-img{
+  width: 100%;
+  padding:25px;
+}
+.redes-sociales{
+ text-align: right;
+ position: absolute;
+  bottom: 0;
+  right: 0;
+
+}
+@media only screen and (max-width: 1199px) {
+  .logo-img{
+  padding: 10px 30px 60px 30px;
+}
+.redes-sociales{
+ 
+  text-align: center!important;
+
+}
+}
+h2{
+  margin-top:0!important;
+}
+
+.rowhead{
+  position:relative;
+}
+.navbar-inverse{
+background-color: yellow;
+border: none;
+max-width: 100%;
+
+}
+.navbar-nav{
+  margin: 10px 0 10px 0;
+  text-align: center;
+  max-width: 100%;
+  width:100%;
+}
+.navbar-center{
+  padding-left:0;
+}
+.container-fluid{
+  background-color: red;
+  min-height: 300px;
+   padding: 8px 4px 8px 8px;
+}
+.subheader{
+  padding: 8px 4px 8px 8px;
+  background-color: red;
+  height: 43px;
+  text-align: center;
+}
+.img-resena{
+   max-width: 100%;
+   /* margin-top: 32px; */
+   margin-top: 39;
+}
+.texto-resena{
+  padding: 3px;
+  /* margin-top: 22px; */
+  text-align: justify;
+  /* margin-left: 10px; */
+}
+.avatar{
+  width: 50px;
+  height: 50px;
+  display: block;
+  /* margin-left: 10px; */
+  float: left;
+  /* margin-right: 20px; */
+  margin-top: 15px;
+}
+
+ .comment-row{
+ margin-left: 10px;
+ 
+
+
+;
+}
+.form-group{
+  
+  
+}
+.form-control{
+float: right;
+}
+.comment{
+  
+}
+.lista-row{
+  width: 100%;
+    margin-left: 0;
+}
+.imaginary_container{
+  margin: 0px;
+}
+.menu-row{
+  margin-left: 0px;
+}
+.img-resena-2{
+   max-width: 100%;
+   /* margin-top: 32px; */
+   /* margin-left: 30px; */
+}
+.commentgrp{
+  padding:0;
+
+}
